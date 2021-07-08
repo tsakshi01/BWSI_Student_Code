@@ -1,0 +1,10 @@
+# CMake generated Testfile for 
+# Source directory: /home/user/catkin_ws/src
+# Build directory: /home/user/catkin_ws/build
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+subdirs("gtest")
+subdirs("example_pkg")
+subdirs("beginner_tutorials")
+subdirs("linux_course_files/move_bb8_pkg")
